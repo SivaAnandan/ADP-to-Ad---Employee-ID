@@ -1,2 +1,2 @@
-# ADP-to-Ad---Employee-ID
-Employee Id code to perform ADP to AD
+# ADP-to-Ad---Email-ID
+Email Id code to perform ADP to AD
